@@ -1,0 +1,10 @@
+C:\Users\student\Documents\Kazuki shimizu\GPR\fukuvHensu\fukuvHensu\bin\Debug\fukuvHensu.exe.config
+C:\Users\student\Documents\Kazuki shimizu\GPR\fukuvHensu\fukuvHensu\bin\Debug\fukuvHensu.exe
+C:\Users\student\Documents\Kazuki shimizu\GPR\fukuvHensu\fukuvHensu\bin\Debug\fukuvHensu.pdb
+C:\Users\student\Documents\Kazuki shimizu\GPR\fukuvHensu\fukuvHensu\obj\Debug\fukuvHensu.csprojAssemblyReference.cache
+C:\Users\student\Documents\Kazuki shimizu\GPR\fukuvHensu\fukuvHensu\obj\Debug\fukuvHensu.Form1.resources
+C:\Users\student\Documents\Kazuki shimizu\GPR\fukuvHensu\fukuvHensu\obj\Debug\fukuvHensu.Properties.Resources.resources
+C:\Users\student\Documents\Kazuki shimizu\GPR\fukuvHensu\fukuvHensu\obj\Debug\fukuvHensu.csproj.GenerateResource.cache
+C:\Users\student\Documents\Kazuki shimizu\GPR\fukuvHensu\fukuvHensu\obj\Debug\fukuvHensu.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Kazuki shimizu\GPR\fukuvHensu\fukuvHensu\obj\Debug\fukuvHensu.exe
+C:\Users\student\Documents\Kazuki shimizu\GPR\fukuvHensu\fukuvHensu\obj\Debug\fukuvHensu.pdb
